@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">News App</string>
     <string name="popular_news">Popular News</string>
+    <string name="search">search</string>
+    <string name="Search" />
+    <string name="search_news">Search News</string>
+    <string name="news_search">News Search</string>
 </resources>
