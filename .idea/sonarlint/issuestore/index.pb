@@ -1,22 +1,16 @@
 
-s
-Capp/src/main/java/com/example/newsapp/ui/details/DetailsFragment.kt,d\8\d8b5d134396bed14c216d1a114c366883867a896
 u
 Eapp/src/main/java/com/example/newsapp/ui/favorite/FavoriteFragment.kt,9\9\993758a80a1f9772a2f8648d7d5021add85bb699
 q
 Aapp/src/main/java/com/example/newsapp/ui/splash/SplashFragment.kt,a\1\a165f2e210f0113fcb9d3f1b39523f7e3b7be685
 l
 <app/src/main/java/com/example/newsapp/models/NewsResponse.kt,9\9\99cfeebe695d93e82c6de11791264b3a55d154c7
-f
-6app/src/main/java/com/example/newsapp/models/Source.kt,9\b\9b5d7929d333003bb25649248b613dace2104a98
 h
 8app/src/main/java/com/example/newsapp/utils/Constants.kt,6\7\678bd83bcb3a1285c05a22d5e708493c0e418951
 e
 5app/src/main/java/com/example/newsapp/di/AppModule.kt,7\2\720687357d559dc0daf9b121801689d631ecb54a
 @
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
-g
-7app/src/main/java/com/example/newsapp/models/Article.kt,2\f\2f5e3ae74d5b8b705b0d0a00247856626937e357
 e
 5app/src/main/java/com/example/newsapp/MainActivity.kt,8\d\8d9fac48d13312191193c4245bdf385630dfe20a
 c

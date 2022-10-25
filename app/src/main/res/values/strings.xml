@@ -5,4 +5,6 @@
     <string name="Search" />
     <string name="search_news">Search News</string>
     <string name="news_search">News Search</string>
+    <string name="description">Description</string>
+    <string name="visit_site">Visit site</string>
 </resources>

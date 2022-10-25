@@ -20,9 +20,7 @@
             <ImageView
                 android:id="@+id/header_image"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                tools:ignore="ContentDescription" />
-
+                android:layout_height="match_parent"/>
             <ImageView
                 android:id="@+id/icon_back"
                 android:layout_width="wrap_content"
@@ -31,8 +29,7 @@
                 android:layout_marginBottom="18dp"
                 android:src="@drawable/ic_arrow_back"
                 app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                tools:ignore="ContentDescription" />
+                app:layout_constraintStart_toStartOf="parent"/>
 
             <ImageView
                 android:id="@+id/icon_favorite"
@@ -42,8 +39,7 @@
                 android:layout_marginBottom="18dp"
                 android:layout_marginEnd="17dp"
                 app:layout_constraintEnd_toStartOf="@+id/icon_share"
-                app:layout_constraintBottom_toBottomOf="parent"
-                tools:ignore="ContentDescription" />
+                app:layout_constraintBottom_toBottomOf="parent" />
             
             <ImageView
                 android:id="@+id/icon_share"
@@ -53,8 +49,7 @@
                 android:layout_marginBottom="18dp"
                 android:layout_marginEnd="15dp"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintBottom_toBottomOf="parent"
-                tools:ignore="ContentDescription" />
+                app:layout_constraintBottom_toBottomOf="parent"/>
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -100,8 +95,7 @@
         tools:text="Recently, Twitter announced that it has. entered into a definitive agreement to be acquired by an entity wholly owned by Musk for $54.20 per share in cash in a transaction values at nearly $44 billion"
         app:layout_constraintTop_toBottomOf="@id/article_details_description_title"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        tools:targetApi="p" />
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <Button
         android:id="@+id/article_details_button"
